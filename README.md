@@ -1,4 +1,4 @@
-# Mermaid Hex Helper
+# Mermaid Hex Helper 
 
 ![License](https://img.shields.io/github/license/queenofmadhouse/mermaid-hex-helper)
 
@@ -11,7 +11,14 @@
     - Support for `.mmd` files
     - Detection inside ` ```mermaid ` blocks in Markdown files
 
+
 ## Screenshots
+
+### Example in code markdown file
+![](src/main/resources/images/Example%20in%20md.png)
+
+### Color picking menu
+![](src/main/resources/images/Choose%20Color.png)
 
 ## Usage
 

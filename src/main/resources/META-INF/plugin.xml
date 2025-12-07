@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>dev.kalachik.MermaidHexHelper</id>
-    <name>Hex Helper</name>
-    <vendor>Kalachik</vendor>
+    <name>Mermaid Hex Helper</name>
+    <vendor>Eve Kalachik</vendor>
 
     <depends>org.intellij.plugins.markdown</depends>
 

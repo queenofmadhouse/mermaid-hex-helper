@@ -31,8 +31,17 @@ intellijPlatform {
             sinceBuild = "251"
         }
 
+        description = """
+            <p><strong>Mermaid Hex Helper</strong> helps you visualize colors in Mermaid diagrams.</p>
+            <p>Features:</p>
+            <ul>
+                <li>Shows color previews for hex codes in Mermaid blocks.</li>
+                <li>Supports Markdown files.</li>
+            </ul>
+        """.trimIndent()
+
         changeNotes = """
-            Initial version
+            <strong>v1.0.0</strong> - initial release
         """.trimIndent()
     }
     buildSearchableOptions = false
