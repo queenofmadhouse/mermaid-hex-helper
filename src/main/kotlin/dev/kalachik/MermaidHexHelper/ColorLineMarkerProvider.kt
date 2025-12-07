@@ -1,4 +1,4 @@
-package dev.kalachik.MermaidColorGenerator
+package dev.kalachik.MermaidHexHelper
 
 import com.intellij.codeInsight.daemon.GutterIconNavigationHandler
 import com.intellij.codeInsight.daemon.LineMarkerInfo

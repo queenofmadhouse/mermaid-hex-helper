@@ -1,1 +1,1 @@
-rootProject.name = "MermaidColorGenerator"
+rootProject.name = "MermaidHexHelper"

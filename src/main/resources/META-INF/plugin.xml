@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>dev.kalachik.MermaidColorGenerator</id>
+    <id>dev.kalachik.MermaidHexHelper</id>
     <name>Hex Helper</name>
     <vendor>Kalachik</vendor>
 
@@ -7,6 +7,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <codeInsight.lineMarkerProvider language=""
-                                        implementationClass="dev.kalachik.MermaidColorGenerator.ColorLineMarkerProvider"/>
+                                        implementationClass="dev.kalachik.MermaidHexHelper.ColorLineMarkerProvider"/>
     </extensions>
 </idea-plugin>
